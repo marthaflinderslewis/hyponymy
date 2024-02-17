@@ -1,0 +1,7 @@
+/data
+/glove
+
+*.p
+*.txt
+
+__pycache__
